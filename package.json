@@ -1,0 +1,21 @@
+{
+    "name": "modus-vivendi-code",
+    "displayName": "modus-vivendi",
+    "description": "modus vivendi theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "modus-vivendi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/modus-vivendi-color-theme.json"
+            }
+        ]
+    }
+}
