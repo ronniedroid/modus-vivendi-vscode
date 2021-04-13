@@ -40,7 +40,7 @@
       "name": "Identifier",
       "scope": "variable, support.variable, support.class, support.constant, meta.definition.variable entity.name.function",
       "settings": {
-        "foreground": "#00ff00"
+        "foreground": "#44C4C2"
       }
     },
     {
@@ -83,7 +83,7 @@
       "name": "Type",
       "scope": "entity.name.type, entity.other.inherited-class",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#feacd0"
       }
     },
     {
@@ -120,7 +120,7 @@
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#feacd0"
       }
     },
     {
