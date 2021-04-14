@@ -16,6 +16,20 @@
       }
     },
     {
+      "name": "Brackets",
+      "scope": "punctuation.brackets.round",
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
+      "name": "Curly Brackets",
+      "scope": "punctuation.brackets.curly",
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "name": "String Escape",
       "scope": "constant.character.escape, text.html constant.character.entity.named, punctuation.definition.entity.html",
       "settings": {
