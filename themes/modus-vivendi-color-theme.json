@@ -30,6 +30,13 @@
       }
     },
     {
+      "name": "Square Brackets",
+      "scope": "punctuation.brackets.square",
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+    {
       "name": "String Escape",
       "scope": "constant.character.escape, text.html constant.character.entity.named, punctuation.definition.entity.html",
       "settings": {
