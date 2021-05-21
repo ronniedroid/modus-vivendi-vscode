@@ -17,21 +17,21 @@
     },
     {
       "name": "Brackets",
-      "scope": "punctuation.brackets.round",
+      "scope": "punctuation.brackets.round, meta.brace.round.js, meta.function.js",
       "settings": {
         "foreground": "#FFFFFF"
       }
     },
     {
       "name": "Curly Brackets",
-      "scope": "punctuation.brackets.curly",
+      "scope": "punctuation.brackets.curly, meta.brace.curly.js, meta.function.js",
       "settings": {
         "foreground": "#FFFFFF"
       }
     },
     {
       "name": "Square Brackets",
-      "scope": "punctuation.brackets.square",
+      "scope": "punctuation.brackets.square, meta.brace.square.js, meta.function.js",
       "settings": {
         "foreground": "#FFFFFF"
       }
